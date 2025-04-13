@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose quadrant</string>
+    <string name="text_composable">Text composable</string>
+    <string name="text_composable_body">Displays text and follows the recommended Material Design guidelines.</string>
+</resources>
